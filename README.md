@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Databank Systems Co."
-- 🌱 I’m currently learning FrontEnd (Vuejs) and Backend (Spring boot, nodejs ...)
+- 🔭 I’m currently working on "Lemon Healthcare Co."
+- 🌱 I’m currently learning FrontEnd (Vuejs) and Backend (Spring boot, Vertx, nestjs ...)
 - 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
